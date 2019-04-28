@@ -13,4 +13,3 @@ function holidayCountdown(days, holiday) {
 }
 
 
-happyHolidays()
